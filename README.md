@@ -67,4 +67,5 @@ any minor or patch releases. We will address issues and requests with the highes
 
 1. Understand the [official documentation](https://cloud.google.com/vision/docs/).
 2. Take a look at [in-depth usage samples](https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/vision/).
+3. Check out [php-google-vision](https://github.com/ahmadmayahi/php-google-vision) wrapper.
 
